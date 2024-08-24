@@ -1,0 +1,7 @@
+/.idea/
+/*.iml
+/vendor/
+/var
+/.php-cs-fixer.cache
+/.phpunit.cache
+/composer.lock
